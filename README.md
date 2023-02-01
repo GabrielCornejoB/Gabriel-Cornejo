@@ -10,7 +10,7 @@
 
 - 📚 Actualmente estoy aprendiendo acerca de desarrollo front-end y aspiro a ser desarrollador full-stack.
 
-- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](google.com)
+- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/HV-GabrielCornejo-2023.pdf)
 
 ## Herramientas que controlo / me gustaría trabajar 🧰
 
