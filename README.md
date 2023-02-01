@@ -36,11 +36,14 @@
 
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    
-<br>   
+    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 ## Habilidades blandas
+
+- ✨ Altas capacidades de liderazgo
+- ❤️ Pasión por aprender y enseñar
+- ⭐ Adaptación a distintos equipos de trabajo
+- 🌐 Alto nivel de Inglés
 
 ## Contáctame!
 
