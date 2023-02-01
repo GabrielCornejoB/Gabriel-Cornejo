@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Gabriel Cornejo 👋</h1>
 
-<h3 align="center">Estudiante en Sistemas e Informática</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas e Informática</h3>
 
 ## Acerca de mi 🙋‍♂️
 
