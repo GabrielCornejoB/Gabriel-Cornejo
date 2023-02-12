@@ -24,6 +24,7 @@
     ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     
 - **Frameworks / otras herramientas**:
+- 
     ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
