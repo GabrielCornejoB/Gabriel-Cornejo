@@ -12,7 +12,7 @@
 
 - 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/HV-GabrielCornejo-2023.pdf)
 
-## Herramientas que controlo / me gustaría trabajar 🧰
+## Herramientas que utilizo / en las que me gustaría trabajar 🧰
 
 - **Lenguajes de Programación**:
     
