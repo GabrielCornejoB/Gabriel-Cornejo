@@ -1,22 +1,20 @@
-<h1 align="center">Hola! Soy Gabriel Cornejo 👋</h1>
+<h1 align="center">Hello! I am Gabriel Cornejo 👋</h1>
 
-<h3 align="center">Desarrollador web</h3>
+<h3 align="center">Web developer</h3>
 
-Click the following link to check out my [english profile](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/README-EN.md).
+## About me 🙋‍♂️
 
-## Acerca de mi 🙋‍♂️
+- 🎓 I am on my 3rd year of Systems and Computer Engineering at Universidad Pontificia Bolivariana
 
-- 🎓 Estoy cursando 7mo semestre de Ingeniería en Sistemas e Informática en la Universidad Pontificia Bolivariana
+- 🌎 Currently living in Medellín, Colombia
 
-- 🌎 Vivo en Medellín, Colombia
+- 📚 Improving my web development skills, mainly front-end development but I aim to one day become a full-stack developer
 
-- 📚 Actualmente estoy mejorando mis habilidades en desarrollo front-end y aspiro a ser desarrollador full-stack.
+- 👨‍💻 Available to work in software development and web development, here's my [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo-EN.pdf)
 
-- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo.pdf)
+## Tools I use / would like to work 🧰
 
-## Herramientas que utilizo / en las que me gustaría trabajar 🧰
-
-- **Lenguajes de Programación**:
+- **Programming languages**:
     
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -33,7 +31,7 @@ Click the following link to check out my [english profile](https://github.com/Ga
     ![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
     ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- **Bases de Datos**:
+- **Databases**:
 
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,20 +39,20 @@ Click the following link to check out my [english profile](https://github.com/Ga
     ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
     
-- **Otras herramientas**:
+- **Other tools**:
 
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-## Habilidades blandas 😊
+## Soft skills 😊
 
-- ✨ Altas capacidades de liderazgo
-- ❤️ Pasión por aprender y enseñar
-- ⭐ Adaptación a distintos equipos de trabajo
-- 🌐 Alto nivel de Inglés
+- ✨ High leadership capabilities
+- ❤️ Passion for learning and teaching
+- ⭐ Skill to adapt to different dynamics and work styles
+- 🌐 Great communication skills
 
-## Contáctame! 📞
+## Contact me! 📞
 
 <p align="center">
       <br/>
