@@ -1,23 +1,22 @@
-<h1 align="center">Hello! I am Gabriel Cornejo 👋</h1>
+<h1 align="center">Hola! Soy Gabriel Cornejo 👋</h1>
 
-<h3 align="center">Web developer</h3>
+<h3 align="center">Desarrollador web</h3>
 
-Click on the following link to check out this README in [spanish](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/README-ES.md)
+Click the following link to check out my [english profile](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/README-EN.md).
 
-## About me 🙋‍♂️
+## Acerca de mi 🙋‍♂️
 
-- 🎓 I am on my 3rd year of Systems and Computer Engineering at Universidad Pontificia Bolivariana
+- 🎓 Estoy cursando 7mo semestre de Ingeniería en Sistemas e Informática en la Universidad Pontificia Bolivariana
 
-- 🌎 Currently living in Medellín, Colombia
+- 🌎 Vivo en Medellín, Colombia
 
-- 📚 Focusing mainly on front-end development, but also have some knowledge on back-end development.
+- 📚 Actualmente estoy enfocandome en el desarrollo front-end pero tambien tengo conocimientos en back-end.
 
-- 👨‍💻 Available to work in software development and web development, here's my [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo-EN.pdf)
+- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo.pdf)
 
-## Tools I use / would like to work 🧰
+## Herramientas que utilizo / en las que me gustaría trabajar 🧰
 
-- **Programming languages**:
-
+- **Lenguajes de Programación**:
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +33,7 @@ Click on the following link to check out this README in [spanish](https://github
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- **Databases**:
+- **Bases de Datos**:
 
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,7 +41,7 @@ Click on the following link to check out this README in [spanish](https://github
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- **Other tools**:
+- **Otras herramientas**:
 
   ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -50,14 +49,14 @@ Click on the following link to check out this README in [spanish](https://github
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Soft skills 😊
+## Habilidades blandas 😊
 
-- ✨ High leadership capabilities
-- ❤️ Passion for learning and teaching
-- ⭐ Skill to adapt to different dynamics and work styles
-- 🌐 Great communication skills
+- ✨ Altas capacidades de liderazgo
+- ❤️ Pasión por aprender y enseñar
+- ⭐ Adaptación a distintos equipos de trabajo
+- 🌐 Alto nivel de Inglés
 
-## Contact me! 📞
+## Contáctame! 📞
 
 <p align="center">
       <br/>
