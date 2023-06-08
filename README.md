@@ -6,7 +6,7 @@ Click on the following link to check out this README in [spanish](https://github
 
 ## About me 🙋‍♂️
 
-- 🎓 I am on my 3rd year of Systems and Computer Engineering at Universidad Pontificia Bolivariana
+- 🎓 I am on my 4th year of Systems and Computer Engineering at Universidad Pontificia Bolivariana
 
 - 🌎 Currently living in Medellín, Colombia
 
