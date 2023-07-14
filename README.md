@@ -26,6 +26,7 @@ Click on the following link to check out this README in [spanish](https://github
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - **Other tools**:
