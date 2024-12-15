@@ -1,18 +1,20 @@
 <h1 align="center">Hola! Soy Gabriel Cornejo 👋</h1>
 
-<h3 align="center">Desarrollador web</h3>
+<h3 align="center">Ingeniero de Software</h3>
 
 Click the following link to check out my [english profile](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/README-EN.md).
 
 ## Acerca de mi 🙋‍♂️
 
-- 🎓 Estoy cursando 8vo semestre de Ingeniería en Sistemas e Informática en la Universidad Pontificia Bolivariana
+- 👨‍💼 Actualmente estoy trabajando en Bancolombia como un Ingeniero de Software SSR.
 
-- 🌎 Vivo en Medellín, Colombia
+- 🎓 Finalicé mi pregrado en Ingeniería de Sistemas e Informática en la Universidad Pontificia Bolivariana, estoy esperando mi graduación en abril 2025.
 
-- 📚 Actualmente estoy enfocandome en el desarrollo front-end pero tambien tengo conocimientos en back-end.
+- 🌎 Vivo en Medellín, Colombia.
 
-- 👨‍💻 Aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo.pdf)
+- 📚 Actualmente estoy enfocandome principalmente en desarrollo front-end, pero también tengo habilidades en desarrollo back-end, automatización de pruebas & DevOps.
+
+- 👨‍💻 Aquí está mi [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo-2025.pdf)
 
 ## Herramientas que utilizo / en las que me gustaría trabajar 🧰
 
@@ -20,24 +22,26 @@ Click the following link to check out my [english profile](https://github.com/Ga
 
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - **Frameworks**:
 
+  ![Angular](https://img.shields.io/badge/Angular-f42165?style=for-the-badge&logo=angular&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - **Otras herramientas**:
 
-  ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Habilidades blandas 😊
 
+- 🚀 Proactivo y con iniciativa!
 - ✨ Altas capacidades de liderazgo
 - ❤️ Pasión por aprender y enseñar
 - ⭐ Adaptación a distintos equipos de trabajo
