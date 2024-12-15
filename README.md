@@ -14,7 +14,7 @@ Click on the following link to check out this README in [spanish](https://github
 
 - 📚 Focusing mainly on Front-end development, but I also have skills in Back-end, QA, Test Automation & DevOps.
 
-- 👨‍💻 Here's my [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo-EN.pdf)
+- 👨‍💻 Here's my [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-EN-GabrielCornejo-2025.pdf)
 
 ## Main Tools 🧰
 
