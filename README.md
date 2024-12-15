@@ -1,16 +1,18 @@
-<h1 align="center">Hello! I am Gabriel Cornejo 👋</h1>
+<h1 align="center">Hi! I am Gabriel Cornejo 👋</h1>
 
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Sofware Engineer</h3>
 
 Click on the following link to check out this README in [spanish](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/README-ES.md)
 
 ## About me 🙋‍♂️
 
-- 🎓 I am on my 4th year of Systems and Computer Engineering at Universidad Pontificia Bolivariana
+- 👨‍💼 I am currently working for Bancolombia as a SSR Software Engineer.
 
-- 🌎 Currently living in Medellín, Colombia
+- 🎓 I've finished my Systems and Computer Engineering degree at Universidad Pontificia Bolivariana, and I am expectant for my graduation in April 2025.
 
-- 📚 Focusing mainly on front-end development, but also have some knowledge on back-end development.
+- 🌎 Currently living in Medellín, Colombia.
+
+- 📚 Focusing mainly on Front-end development, but I also have skills in Back-end, QA, Test Automation & DevOps.
 
 - 👨‍💻 Here's my [CV](https://github.com/GabrielCornejoB/GabrielCornejoB/blob/master/CV-GabrielCornejo-EN.pdf)
 
@@ -20,24 +22,26 @@ Click on the following link to check out this README in [spanish](https://github
 
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- **Frameworks**:
+- **Frameworks/Libraries**:
 
+  ![Angular](https://img.shields.io/badge/Angular-f42165?style=for-the-badge&logo=angular&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - **Other tools**:
 
-  ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Soft skills 😊
 
+- 🚀 Proactive and initiative-driven
 - ✨ High leadership capabilities
 - ❤️ Passion for learning and teaching
 - ⭐ Skill to adapt to different dynamics and work styles
